@@ -38,4 +38,5 @@ pnpm dlx prisma generate
 pnpm dlx prisma migrate dev
 ```
 
-After your prisma has initialization 
+After your setup prisma is complet, let's get your cloudinary credentials
+(sign up cloudinary[https://cloudinary.com/users/register_free])
