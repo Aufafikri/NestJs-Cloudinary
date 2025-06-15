@@ -39,4 +39,4 @@ pnpm dlx prisma migrate dev
 ```
 
 After your setup prisma is complet, let's get your cloudinary credentials
-(sign up cloudinary[https://cloudinary.com/users/register_free])
+- [Sign Up Cloudinary](https://www.prisma.io/docs/orm/overview/databases/postgresql)
