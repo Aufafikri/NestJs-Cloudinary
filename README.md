@@ -11,10 +11,16 @@
 using npm :
 
 ```sh
-npm install @prisma/client
+npm install prisma
 ```
 using pnpm : 
 
 ```sh
-pnpm install @prisma/client
+pnpm install prisma
+```
+
+### Prisma Initialization
+
+```sh
+pnpm dlx prisma init
 ```
